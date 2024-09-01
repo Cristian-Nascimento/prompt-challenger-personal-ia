@@ -223,32 +223,37 @@ Como você é intermediário e busca perder peso e ganhar massa muscular, a comb
 
 Sugestão de treino:
 
-**Segunda-feira**: Peito e Tríceps
+**Segunda-feira:** *Peito e Tríceps*
 
-Sessão 1: Supino reto com barra (3x10), flexão de braço (3x até a falha), crucifixo inclinado (3x12), tríceps na polia (3x12)
-Sessão 2: Desenvolvimento com halteres (3x12), tríceps francês com barra (3x12), pullover com haltere (3x15)
-Terça-feira: Costas e Bíceps
+- Sessão 1: Supino reto com barra (3x10), flexão de braço (3x até a falha), crucifixo inclinado (3x12), tríceps na polia (3x12)
+- Sessão 2: Desenvolvimento com halteres (3x12), tríceps francês com barra (3x12), pullover com haltere (3x15)
 
-Sessão 1: Pull-up (ou remada alta na barra fixa) (3x máximo de repetições), remada curvada com barra (3x10), puxada frontal (3x12)
-Sessão 2: Rosca direta com barra (3x12), rosca alternada com halteres (3x12), rosca concentrada (3x15)
-Quarta-feira: Ombro e Abdomem
+**Terça-feira:** *Costas e Bíceps*
 
-Sessão 1: Desenvolvimento com halteres (3x12), elevação lateral (3x15), remada alta (3x12)
-Sessão 2: Plank (3x30s), bicicleta (3x30s), russian twist (3x20)
-Quinta-feira: Pernas
+- Sessão 1: Pull-up (ou remada alta na barra fixa) (3x máximo de repetições), remada curvada com barra (3x10), puxada frontal (3x12)
+- Sessão 2: Rosca direta com barra (3x12), rosca alternada com halteres (3x12), rosca concentrada (3x15)
+
+**Quarta-feira:** *Ombro e Abdomem*
+
+- Sessão 1: Desenvolvimento com halteres (3x12), elevação lateral (3x15), remada alta (3x12)
+- Sessão 2: Plank (3x30s), bicicleta (3x30s), russian twist (3x20)
+
+**Quinta-feira:** *Pernas*
 
 Sessão 1: Agachamento livre (3x12), leg press (3x12), lunges (3x10 por perna)
 Sessão 2: Stiff (3x12), panturrilha na máquina (3x15)
-Sexta-feira: HIIT
 
-30 minutos alternando entre exercícios de alta intensidade (sprint, burpees, jump squats) e recuperação (caminhada leve).
-Dicas extras:
+**Sexta-feira:** *HIIT*
 
-Aqueça sempre antes de cada treino e alongue no final.
-Varie os exercícios a cada 4-6 semanas para evitar a acomodação muscular.
-Aumente gradualmente a carga ou o número de repetições para continuar desafiando seus músculos.
-Descance entre as séries e entre os treinos.
-Alimente-se bem: Uma dieta equilibrada com proteínas, carboidratos e gorduras boas é essencial para o ganho de massa muscular e perda de peso.
-Hidrate-se: Beba bastante água ao longo do dia.
-Consulte um profissional: Um educador físico pode te auxiliar na execução correta dos exercícios e personalizar ainda mais o seu treino.
-Lembre-se: Perder peso e ganhar massa muscular ao mesmo tempo exige consistência e disciplina. Seja paciente e celebre cada pequena vitória!
+- 30 minutos alternando entre exercícios de alta intensidade (sprint, burpees, jump squats) e recuperação (caminhada leve).
+
+**Dicas extras:**
+
+- Aqueça sempre antes de cada treino e alongue no final.
+- Varie os exercícios a cada 4-6 semanas para evitar a acomodação muscular.
+- Aumente gradualmente a carga ou o número de repetições para continuar desafiando seus músculos.
+- Descance entre as séries e entre os treinos.
+- Alimente-se bem: Uma dieta equilibrada com proteínas, carboidratos e gorduras boas é essencial para o ganho de massa muscular e perda de peso.
+- Hidrate-se: Beba bastante água ao longo do dia.
+- Consulte um profissional: Um educador físico pode te auxiliar na execução correta dos exercícios e personalizar ainda mais o seu treino.
+- Lembre-se: Perder peso e ganhar massa muscular ao mesmo tempo exige consistência e disciplina. Seja paciente e celebre cada pequena vitória!
