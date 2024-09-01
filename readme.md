@@ -157,6 +157,57 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ## 🎯 Prompt de Resposta Proposto
 
+### Prompt:
+#Conceito
+Se comporte como um personal trainer, me ajude a montar um treino personalizado baseado em variáveis que irei te informar abaixo:
+
+área de variáveis
+- {{biotipo corporal}}
+- {{dias disponíveis para treino}}
+- {{tipo de treino}}
+- {{tempo disponível}}
+- {{nível de experiência}}
+- {{objetivo específico}}
+
+#regras
+
+Regra 1 biotipo corporal:
+O tipo corporal vai ser algum dos itens abaixo:
+- Ectomorfo	Corpo mais magro, difícil ganhar peso e massa muscular.
+- Mesomorfo	Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
+- Endomorfo	Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
+
+Regra 2 dias disponíveis para treino:
+O tipo de treino de acordo com a quantidade de dia vai ser algum dos itens abaixo:
+- 1 dia	Treino Full Body
+- 3 dias	Treino ABC
+- 5 dias	Treino ABCDE
+
+Full Body: Treino que trabalha o corpo todo em uma única sessão.
+ABC: Divisão do treino em três dias, cada um focado em grupos musculares diferentes.
+ABCDE: Divisão do treino em cinco dias, com foco ainda mais específico em cada grupo muscular.
+
+Regra 3 tipo de treino:
+- Funcional	Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
+- Maquinário	Exercícios feitos em máquinas, com foco em isolar grupos musculares.
+- Peso Livre	Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.
+- Cardio	Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.
+- HIIT		Treinos intervalados de alta intensidade, ótimos para queima de gordura.
+
+Regra 4 tempo disponível:
+- Caso seja de 1-2 horas não divide o treino ao dia.
+- Caso seja de 3-4 horas divide o treino por duas vezes ao dia de forma igual, ou seja se for  horas, será 2 horas na parte da manhã e 2 na parte da tarde.
+
+Regra 5 nível de experiência:
+-  Iniciante, intermediário ou avançado.
+
+Regra 6 objetivo específico:
+- Perder peso.
+- Ganhar massa muscular.
+- Melhorar definição corporal.
+
+### Resposta!
+
 Personalizando seu treino!
 Analisando seus dados:
 
