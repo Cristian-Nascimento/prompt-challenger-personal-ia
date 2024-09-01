@@ -12,7 +12,7 @@
 
 <p align="center">
   <h3 align="center">🏋️‍♂️ Assistente de Personal Trainer - Gerador de Treino Ideal</h3>
-Este projeto é um desafio de Prompt Engineer, onde o objetivo é criar um prompt que ajuda a montar o treino ideal para cada combinação de fatores, como biotipo corporal, disponibilidade de tempo e tipo de exercícios preferidos. O assistente de personal trainer gerado por esse prompt será capaz de personalizar os treinos de acordo com as características e necessidades do usuário.
+Este projeto é um desafio de Prompt Engineer, onde o objetivo é criar um prompt que ajuda a montar o treino ideal para cada combinação de fatores, como biotipo corporal, disponibilidade de dias, tipo de exercícios preferidos, tempo disponível, nivel de experiência e Objetivos específicos. O assistente de personal trainer gerado por esse prompt será capaz de personalizar os treinos de acordo com as características e necessidades do usuário.
 O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 </p>
 
@@ -23,6 +23,9 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [💪 Biotipos Corporais](#-biotipos-corporais)
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
+- [<img src="https://github.com/user-attachments/assets/64e0ae06-062a-46d9-a5fa-d5d7bdf6cc0f" width="15px" height="15px"> Tempo disponível](#-tempo-disponivel)
+- [<img src="https://github.com/user-attachments/assets/e1818f65-9659-440e-8579-613a16b9850c" width="15px" height="15px"> Nível de experiência](#-nível-de-experiência)
+- [<img src="https://github.com/user-attachments/assets/eff47c0f-9edf-4da5-afae-6d5bb381a9a9" width="15px" height="15px"> Objetivos específicos](#-objetivos-específicos)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
 - [📖 Material de Apoio](#-material-de-apoio)
 - [🎯 Prompt de Resposta Proposto](#-prompt-de-resposta-proposto)
@@ -102,12 +105,44 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 ---
 
+## <img src="https://github.com/user-attachments/assets/64e0ae06-062a-46d9-a5fa-d5d7bdf6cc0f" width="25px" height="25px"> Tempo disponível
+
+A quarta regra envolve o tempo disponível para treinar por dia
+
+1. **Caso seja de 1-2 horas** não divide o treino ao dia.
+2. **Caso seja de 2-4 horas** divide o treino por duas vezes ao dia. 
+
+---
+
+## <img src="https://github.com/user-attachments/assets/e1818f65-9659-440e-8579-613a16b9850c" width="25px" height="25px"> Nível de experiência
+
+A quinta regra envolve o nível de experiência.
+
+1. Iniciante.
+2. Intermediário.
+3. Avançado.
+
+---
+
+## <img src="https://github.com/user-attachments/assets/eff47c0f-9edf-4da5-afae-6d5bb381a9a9" width="25px" height="25px"> Objetivos específicos
+
+A sexta regra envolve os objetivos específicos.
+
+1. Perder peso.
+2. Ganhar massa muscular.
+3. Melhorar definição corporal.
+
+---
+
 ## 🛠️ Regras de negócio
 
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
 2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
 3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
+4. **Seleione o tempo disponível** que tem disponível por dia em horas.
+5. **Selecione o nível de experiência** o treino será gerado de acordo com o seu nível de experiência.
+6. **Determine o seu objetivo específico** o treino será gerado de acordo com o seu objetivo específico.
+7. Use o prompt do assistente para gerar um plano de treino personalizado.
 
 ---
 
@@ -121,3 +156,48 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+Personalizando seu treino!
+Analisando seus dados:
+
+Biotipo: Endomorfo (tendência a acumular gordura)
+Dias disponíveis: 5
+Preferência de treino: Mix de funcional, maquinário e peso livre (HIIT na sexta)
+Tempo disponível: 4 horas (2 sessões de 2 horas)
+Nível: Intermediário
+Objetivo: Perder peso e ganhar massa muscular
+Estratégia:
+
+Como você é intermediário e busca perder peso e ganhar massa muscular, a combinação de treino de força com alta intensidade e foco em grandes grupos musculares será ideal. O HIIT na sexta-feira dará um boost na queima de calorias.
+
+Sugestão de treino:
+
+**Segunda-feira**: Peito e Tríceps
+
+Sessão 1: Supino reto com barra (3x10), flexão de braço (3x até a falha), crucifixo inclinado (3x12), tríceps na polia (3x12)
+Sessão 2: Desenvolvimento com halteres (3x12), tríceps francês com barra (3x12), pullover com haltere (3x15)
+Terça-feira: Costas e Bíceps
+
+Sessão 1: Pull-up (ou remada alta na barra fixa) (3x máximo de repetições), remada curvada com barra (3x10), puxada frontal (3x12)
+Sessão 2: Rosca direta com barra (3x12), rosca alternada com halteres (3x12), rosca concentrada (3x15)
+Quarta-feira: Ombro e Abdomem
+
+Sessão 1: Desenvolvimento com halteres (3x12), elevação lateral (3x15), remada alta (3x12)
+Sessão 2: Plank (3x30s), bicicleta (3x30s), russian twist (3x20)
+Quinta-feira: Pernas
+
+Sessão 1: Agachamento livre (3x12), leg press (3x12), lunges (3x10 por perna)
+Sessão 2: Stiff (3x12), panturrilha na máquina (3x15)
+Sexta-feira: HIIT
+
+30 minutos alternando entre exercícios de alta intensidade (sprint, burpees, jump squats) e recuperação (caminhada leve).
+Dicas extras:
+
+Aqueça sempre antes de cada treino e alongue no final.
+Varie os exercícios a cada 4-6 semanas para evitar a acomodação muscular.
+Aumente gradualmente a carga ou o número de repetições para continuar desafiando seus músculos.
+Descance entre as séries e entre os treinos.
+Alimente-se bem: Uma dieta equilibrada com proteínas, carboidratos e gorduras boas é essencial para o ganho de massa muscular e perda de peso.
+Hidrate-se: Beba bastante água ao longo do dia.
+Consulte um profissional: Um educador físico pode te auxiliar na execução correta dos exercícios e personalizar ainda mais o seu treino.
+Lembre-se: Perder peso e ganhar massa muscular ao mesmo tempo exige consistência e disciplina. Seja paciente e celebre cada pequena vitória!
